@@ -5,7 +5,7 @@ use state::*;
 mod constants;
 mod drift_cpi;
 mod error;
-mod instructions;
+pub mod instructions;
 pub mod macros;
 mod state;
 mod tests;

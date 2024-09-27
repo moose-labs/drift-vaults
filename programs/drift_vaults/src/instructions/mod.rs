@@ -30,7 +30,7 @@ mod deposit;
 mod force_withdraw;
 mod initialize_competitor;
 mod initialize_insurance_fund_stake;
-mod initialize_vault;
+pub mod initialize_vault;
 mod initialize_vault_depositor;
 mod initialize_vault_with_protocol;
 mod liquidate;
