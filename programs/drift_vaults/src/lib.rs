@@ -7,7 +7,7 @@ mod drift_cpi;
 mod error;
 pub mod instructions;
 pub mod macros;
-mod state;
+pub mod state;
 mod tests;
 
 declare_id!("vAuLTsyrvSfZRuRB3XgvkPwNGgYSs9YRYymVebLKoxR");
